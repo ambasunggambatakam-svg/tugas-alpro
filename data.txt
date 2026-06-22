@@ -1,0 +1,3 @@
+Data Produksi Harian
+Senin: 120 unit
+Selasa: 150 unit
